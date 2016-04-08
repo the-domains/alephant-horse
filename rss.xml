@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[alephant-horse]]></title>
+        <description><![CDATA[alephant-horse]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Apr 2016 23:05:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alephant Horse]]></title>
+            <description><![CDATA[<h1>Alephant Horse</h1>]]></description>
+            <link>undefinedalephant-horse/index.html</link>
+            <guid isPermaLink="false">5224ba3b-8b6d-48e6-9b56-30670934c0e6</guid>
+            <pubDate>Fri, 08 Apr 2016 23:05:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
